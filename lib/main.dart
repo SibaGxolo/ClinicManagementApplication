@@ -6,7 +6,7 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        appBar: AppBar (
+        appBar: AppBar(
           title: Text('Clinic Management Application'),
         ),
         body: Center(
@@ -14,9 +14,9 @@ void main() {
             width: 360,
             color: Colors.blueAccent,
             child: Text(
-            'Welcome to the Clinic Management App ',
-            textAlign: TextAlign.center,
-            style: TextStyle(fontSize: 40),
+              'Welcome to the Clinic Management Appli ',
+              textAlign: TextAlign.center,
+              style: TextStyle(fontSize: 40),
             ),
           ),
         ),
