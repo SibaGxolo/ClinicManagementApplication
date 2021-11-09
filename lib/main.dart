@@ -14,7 +14,7 @@ void main() {
             width: 360,
             color: Colors.blueAccent,
             child: Text(
-            'Welcome to the Clinic Management Application',
+            'Welcome to the Clinic Management App ',
             textAlign: TextAlign.center,
             style: TextStyle(fontSize: 40),
             ),
